@@ -37,7 +37,7 @@ const ChannelDetail = () => {
               mr : {sm:'50px', xs:'6px'},
             }}
           />
-            <Videos videos={videos}/>
+            <Videos videos={videos} width="100%"/>
       </Box>
     </Box>
   )
