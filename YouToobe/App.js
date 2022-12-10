@@ -16,7 +16,7 @@ import {WebView} from 'react-native-webview';
 export default class App extends React.Component{
   render(){
     return (
-      <WebView source={{uri:'https://main.dvr3qmfkxpsdn.amplifyapp.com'}} style={{marginTop:20}}/>
+      <WebView source={{uri:'https://main.d311vplgldpxgq.amplifyapp.com'}} style={{marginTop:35}}/>
     )
   }
 }
